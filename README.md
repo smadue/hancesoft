@@ -5,6 +5,7 @@
 ### I'm Aspiring Software Engineer Who Learn By Doing 
 - 🔭 I’m currently working on Skill Development
 - 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
+- 💬 Ask me about Tech & Science
 
 ### Reach Me
 [My Youtube Channel](https://www.youtube.com/channel/UCTVZvEtM6Rgoeq70ZtT2kUg) <br>
