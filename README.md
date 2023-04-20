@@ -1,14 +1,23 @@
 # Hi there I'm LordVOG 👋
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTVZvEtM6Rgoeq70ZtT2kUg?logo=youtube&logoColor=red&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lordvog?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flordvog&screen_name=lordvog)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
 
 ### I'm Aspiring Software Engineer Who Learn By Doing 
 - 🔭 I’m currently working on Skill Development
 - 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
 - 💬 Ask me about Tech & Science
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/hackersnoder#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/hackersnoder#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/lordvog#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/lordvogr#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Reach Me
 [My Youtube Channel](https://www.youtube.com/channel/UCTVZvEtM6Rgoeq70ZtT2kUg) <br>
