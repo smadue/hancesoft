@@ -8,6 +8,7 @@
 ### Reach Me
 [Twitter](https://twitter.com/lordvog)
 [Hashnode](https://lordvog.hashnode.dev)
+[Medium](https://lordvog.medium.com)
 [Instagram](https://instagram.com/lordvog1)
 
 <!--
