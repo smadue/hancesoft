@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
 
 ### Reach Me
+[My Youtube Channel](https://www.youtube.com/channel/UCTVZvEtM6Rgoeq70ZtT2kUg) <br>
 [Twitter](https://twitter.com/lordvog) <br>
 [Hashnode](https://lordvog.hashnode.dev) <br>
 [Medium](https://lordvog.medium.com) <br>
