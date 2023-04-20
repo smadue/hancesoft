@@ -7,6 +7,8 @@
 
 ### Reach Me
 [Twitter](https://twitter.com/lordvog)
+[Hashnode](https://lordvog.hashnode.dev)
+[Instagram](https://instagram.com/lordvog1)
 
 <!--
 **LordVOG/lordvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
