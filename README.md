@@ -1,7 +1,7 @@
 # Hi there I'm LordVOG 👋
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTVZvEtM6Rgoeq70ZtT2kUg?logo=youtube&logoColor=red&style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/lordvog?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lordvog?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Flordvog&screen_name=lordvog)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
 
