@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
 
 ### Reach Me
-[Twitter](https://twitter.com/lordvog)
-[Hashnode](https://lordvog.hashnode.dev)
-[Medium](https://lordvog.medium.com)
+[Twitter](https://twitter.com/lordvog) <br>
+[Hashnode](https://lordvog.hashnode.dev) <br>
+[Medium](https://lordvog.medium.com) <br>
 [Instagram](https://instagram.com/lordvog1)
 
 <!--
