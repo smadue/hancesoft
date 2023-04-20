@@ -1,6 +1,6 @@
 ## Hi there I'm LordVOG 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
 
 ### I'm Aspiring Software Engineer Who Learn By Doing 
 - 🔭 I’m currently working on Skill Development
