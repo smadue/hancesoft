@@ -13,7 +13,9 @@
 <img align="left" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26px" style="padding-right:10px;/>
 <img align="left" alt="saas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="26px" style="padding-right:10px;"/>
 <img align="left" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" style="padding-right:10px;"/>
-<img align="left" alt="visual studio code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="26px" style="padding-right:10px;"/>
+<img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" style="padding-right:10px;" />
+<img align="left" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26px" style="padding-right:10px;" />
+<img align="left" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26px" style="padding-right:10px;" />
 
 
 <br />
@@ -21,7 +23,7 @@
 
 ---
 
-### Reach Me
+### Connect with me:
 [My Youtube Channel](https://www.youtube.com/channel/UCTVZvEtM6Rgoeq70ZtT2kUg) <br>
 [Twitter](https://twitter.com/lordvog) <br>
 [Hashnode](https://lordvog.hashnode.dev) <br>
