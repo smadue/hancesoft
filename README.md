@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Skill Development
 - 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
 
-Link to [site name](https://twitter.com/lordvog
+Link to [site name](https://twitter.com/lordvog)
 
 <!--
 **LordVOG/lordvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
