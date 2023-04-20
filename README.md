@@ -1,5 +1,6 @@
 ## Hi there I'm LordVOG 👋
-<hr>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=1F905A&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 ### I'm Aspiring Software Engineer Who Learn By Doing 
 - 🔭 I’m currently working on Skill Development
