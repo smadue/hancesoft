@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm LordVOG 👋
+
+### I'm Aspiring Software Engineer Who Learn By Doing 
+- 🔭 I’m currently working on Skill Development
+- 👯 I’m looking to collaborate with Tech hugry smart mind to build amazing projects
 
 <!--
 **LordVOG/lordvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
