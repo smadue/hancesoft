@@ -1,6 +1,8 @@
 # Hi there I'm LordVOG 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordvog)](https://github.com/anuraghazra/github-readme-stats)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTVZvEtM6Rgoeq70ZtT2kUg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
 
