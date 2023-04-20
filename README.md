@@ -1,4 +1,5 @@
 ### Hi there I'm LordVOG 👋
+<hr>
 
 ### I'm Aspiring Software Engineer Who Learn By Doing 
 - 🔭 I’m currently working on Skill Development
