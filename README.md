@@ -1,4 +1,4 @@
-# Hi there I'm LordVOG 👋
+# Hi there I'm Herbert👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Software+Engineer;Passionate+Problem+Solver;I'm+open+for+opportunities)](https://git.io/typing-svg)
 
