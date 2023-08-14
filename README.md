@@ -1,4 +1,4 @@
-# Hi there I'm Herbert👋
+# Hi there I'm Steve 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1F905A&width=435&lines=Frontend+Developer;Core+Solutions+Builder;Open+for+Collaboration)](https://git.io/typing-svg)
 
