@@ -24,11 +24,10 @@
 ---
 
 ### Connect with me:
-[My Youtube Channel](https://www.youtube.com/channel/UCTVZvEtM6Rgoeq70ZtT2kUg) <br>
-[Twitter](https://twitter.com/lordvog) <br>
-[Hashnode](https://lordvog.hashnode.dev) <br>
-[Medium](https://lordvog.medium.com) <br>
-[Instagram](https://instagram.com/lordvog1)
+[My Youtube Channel](https://www.youtube.com/@hackersnode) <br>
+[Twitter](https://twitter.com/waleox) <br>
+[Hashnode](https://hance.hashnode.dev) <br>
+[Medium](https://steveyoh.medium.com) <br>
 
 <!--
 **LordVOG/lordvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
